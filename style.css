@@ -9,6 +9,16 @@
 /* iPads (portrait) ----------- */
 @media only screen and (orientation : portrait) {
     
+#logo {
+  width: 200px;
+  height: 100px;
+  @include background-image-retina(logo, png, 200px, 100px);
+  /* Image replacement code */
+  display: block; 
+  text-indent: -9999px; 
+  white-space: nowrap; 
+  overflow: hidden;
+}
     
 }
 
