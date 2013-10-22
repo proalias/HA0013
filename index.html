@@ -1,124 +1,45 @@
 <!DOCTYPE html>
-<html>
-<head>
-       <link rel="stylesheet" type="text/css" href="style.css" />
-	<!---- FSN PLUGIN ---->
-	<script data-main="../../fsn/plugin" src="../../fsn/require-jquery.js"></script>
-
-	<style>
-		
-		.fsn-menu-item.fsn-level-2{
-			color: #f00;
-		}
-		.fsn-dots-item {
-			background: #666;
-		}
-		.fsn-dots-item.fsn-current {
-			background: white;
-		}
-		.fsn-navigation-arrow {
-			background: #fff;
-		}
-		
-		body {width: 768px;
-		height: 1024px;
-		font-family: arial, sans-serif;}
-		
-
-		
-	</style>
-
+<!-- saved from url=(0076)http://www.idangero.us/sliders/swiper/demos/main-demos/02-vertical-mode.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <title>Demo</title>
+    <link rel="stylesheet" href="css/idangerous.swiper.css">
+    <style>body{margin:0;font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:1.5;}.swiper-container{width:100%;height:100%;color:#fff;text-align:center;}.red-slide{background:#ca4040;}.blue-slide{background:#4390ee;}.orange-slide{background:#ff8604;}.green-slide{background:#49a430;}.pink-slide{background:#973e76;}.swiper-slide .title{font-style:italic;font-size:42px;margin-top:80px;margin-bottom:0;line-height:45px;}.swiper-slide p{font-style:italic;font-size:25px;}.pagination{position:absolute;z-index:20;left:10px;top:10px;}.swiper-pagination-switch{display:block;width:8px;height:8px;border-radius:8px;background:#555;margin:0 0px 5px;opacity:0.8;border:1px solid #fff;cursor:pointer;}.swiper-active-switch{background:#fff;}</style>
 </head>
-<body>      
+<body style="">
+<div class="swiper-container">
+    <div class="swiper-wrapper" style="width: 640px; height: 750px; transition: 0.3s; -webkit-transition: 0.3s; -webkit-transform: translate3d(0px, 0px, 0px);">
+        <div class="swiper-slide section-1-slide swiper-slide-visible swiper-slide-active" style="width: 1280px; height: 976px;">
+            <div class="title">Vertical Mode</div>
+            <p>Swipe to the Top or to the Bottom</p>
+        </div>
+        <div class="swiper-slide section-2-slide" style="width: 100%; height: 100%;">
+            <div class="title">Slide 2</div>
+            <p>Keep swiping</p>
+        </div>
+        <div class="swiper-slide section-3-slide" style="width: 640px; height: 250px;">
+            <div class="title">Slide 3</div>
+            <p>The last one</p>
+        </div>
+        <div class="swiper-slide section-4-slide" style="width: 640px; height: 250px;">
+            <div class="title">Slide 4</div>
+            <p>The last one</p>
+        </div>
+        <div class="swiper-slide section-2-slide" style="width: 640px; height: 250px;">
+            <div class="title">Slide 5?</div>
+            <p>The last one</p>
+        </div>
+    </div>
+    <div class="pagination"><span class="swiper-pagination-switch swiper-visible-switch swiper-active-switch"></span><span class="swiper-pagination-switch"></span><span class="swiper-pagination-switch"></span></div>
+</div>
+<script src="js/jquery-1.10.1.min.js"></script>
+<script src="js/idangerous.swiper.js"></script>
+<script>
+    var mySwiper = new Swiper('.swiper-container',{
+        pagination: '.pagination',
+        paginationClickable: true,
+        mode: 'vertical'
+    })
+</script>
 
-	<!------------------------ FSN WRAP --------------------->
-
-	<div id="fsn" style="visibility: visible;">
-
-		<!--------------------- FSN BAR ---------------------->
-
-		
-
-		<!-------------------- SECTION 1 --------------------->  
-
-		<section data-title="Section one">      
-
-			<!---- PAGE 1 ---->   
-			<article data-title="Page one" data-link="p11" data-background="images/bg1.jpg">
-				
-				<div id="title">
-				<h1>Get Smart</h1>
-				<p class="copy">Your mobile device is as integral to making you look good as the cut
-				of your favourite suit. And like truly great tailoring, quality counts. The <span>samsung galaxy</span> series of smart devices offers the ultimate in style and technology for the sophisticated man about town - at work and play.
-				</p>
-				</div>
-				
-				
-				
-			</article>
-
-			
-
-		</section>
-
-		<!-------------------- SECTION 2 --------------------->   
-
-		<section data-title="Section two">      
-
-			<!---- PAGE 1 ---->   
-			<article data-title="Page one" data-link="p21" data-background="images/bg2.jpg">
-				<p>Section 2 </p>
-			</article>
-
-			
-
-		</section>
-
-		<!-------------------- SECTION 3 -------------------->
-                
-		<section data-title="Section three">      
-
-			<!---- PAGE 1 ---->   
-			<article data-title="Page one" data-link="p32" data-background="images/bg3.jpg">
-				<p>Section 3 </p>
-			</article>
-
-			
-
-		</section>
-		
-		
-		<!-------------------- SECTION 4 -------------------->
-		
-		<section data-title="Section four">      
-
-			<!---- PAGE 1 ---->   
-			<article data-title="Page one" data-link="p43" data-background="images/bg4.jpg">
-				<p>Section 4 </p>
-			</article>
-
-			
-
-		</section>
-		
-		<!----------IGNORE------ SECTION 5 -------------------->
-		
-		<section data-title="Section five">      
-
-			<!---- PAGE 1 ---->   
-			<article data-title="Page one" data-link="p54" data-background="images/bg5.jpg">
-				<p>Section 5</p>
-			</article>
-
-			
-
-		</section>
-		
-		
-		<!-------------------- SECTION 5 -------------------->
-		
-
-	</div>
-
-</body>
-</html>
+</body></html>
