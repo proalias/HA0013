@@ -47,6 +47,8 @@
 
 .swiper-slide {
     float: left;
+    width: 768px;
+    height: 1024px;
 }
 
 .swiper-wp8-horizontal {
@@ -79,14 +81,23 @@
 }
 
 .section-1-slide {
-    background-image: file();
-    
+    background-image: url(../images/bg1.jpg);
+
 }
 
-.section-2-slide {}
+.section-2-slide {
+    background-image: url(../images/bg2.jpg);
+}
 
-.section-3-slide {}
+.section-3-slide {
+    background-image: url(../images/bg3.jpg);
+}
 
-.section-4-slide {}
+.section-4-slide {
+    background-image: url(../images/bg4.jpg);
+}
 
-.section-5-slide {}
+.section-5-slide {
+    background-image: url(../images/bg5.jpg);
+
+}
