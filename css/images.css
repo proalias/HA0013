@@ -4,23 +4,22 @@
 }
 
 
-.section-1-slide .background_page_sc1 {
-    background-image: url('../images/SC1/SAMSUNG_ESQ__SC1-BG_22102013.jpg');
+#page_1 {
+    background-image: url(../images/SC1/SAMSUNG_ESQ__SC1-BG_22102013.jpg);
 }
 
-.section-2-slide .background_page_sc2{
-    background-image: url('../images/SC2/SAMSUNG_ESQ__SC2-BG_22102013.jpg');
+#page_2{
+    background-image: url(../images/SC2/SAMSUNG_ESQ__SC2-BG_22102013.jpg);
 }
 
-.section-3-slide .background_page_sc3{
-    background-image: url('../images/SC3/SAMSUNG_ESQ__SC3-BG_22102013.jpg');
+#page_3{
+    background-image: url(../images/SC3/SAMSUNG_ESQ__SC3-BG_22102013.jpg);
 }
 
-.section-4-slide .background_page_sc4{
-    background-image: url('../images/SC4/SAMSUNG_ESQ__SC4-BG_22102013.jpg');
+#page_4{
+    background-image: url(../images/SC4/SAMSUNG_ESQ__SC4-BG_22102013.jpg);
 }
 
-.section-5-slide .background_page_sc5{
-    background-image: url('../images/SC5/SAMSUNG_ESQ__SC5-BG_22102013.jpg');
-
+#page_5{
+    background-image: url(../images/SC5/SAMSUNG_ESQ__SC5-BG_22102013.jpg);
 }
