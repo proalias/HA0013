@@ -2,6 +2,13 @@
     margin: 0 auto;
     position: relative;
     overflow: hidden;
+
+
+    width: 768px;
+    height: 1024px;
+
+
+
     -webkit-backface-visibility: hidden;
     -moz-backface-visibility: hidden;
     -ms-backface-visibility: hidden;
