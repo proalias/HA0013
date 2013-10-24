@@ -1,8 +1,6 @@
 .swiper-slide {
-    width : 1596px;
-    height : 2048px;
-}
 
+}
 
 #page_1 {
     background-image: url(../images/SC1/SAMSUNG_ESQ__SC1-BG_22102013.jpg);
@@ -29,18 +27,20 @@
 #page_2{
     background-image: url(../images/SC2/SAMSUNG_ESQ__SC2-BG_22102013.jpg);
 }
-#SC2_1 {
-    background-image: url(../images/SC2/SC2_1.png);
+
+#page_2 li {
+    background: url(../images/SC2/csg-52692f8f09143.png) no-repeat top left;
 }
-#SC2_2 {
-    background-image: url(../images/SC2/SC2_2.png);
-}
-#SC2_3 {
-    background-image: url(../images/SC2/SC2_3.png);
-}
-#SC2_5 {
-    background-image: url(../images/SC2/SC2_5.png);
-}
+
+.sprite-SC2_1{ background-position: 0 0; width: 397px; height: 361px; }
+.sprite-SC2_2{ background-position: 0 -411px; width: 397px; height: 361px; }
+.sprite-SC2_3{ background-position: 0 -822px; width: 397px; height: 361px; }
+.sprite-SC2_4{ background-position: 0 -1233px; width: 397px; height: 361px; }
+.sprite-SC2_5{ background-position: 0 -1644px; width: 397px; height: 361px; }
+
+
+
+
 #SC2_BrandLogo_Black {
     background-image: url(../images/SC2/SC2_BrandLogo_Black.png);
 }
@@ -83,6 +83,13 @@
     background-image: url(../images/SC4/SAMSUNG_ESQ__SC4-BG_22102013.jpg);
 }
 
+
+/* -
+
+Generated into spritesheet at
+http://spritegen.website-performance.org/
+
+
 #SC4_ColorGear_01 {
     background-image: url(../images/SC4/SC4_ColorGear_01.jpg)
 }
@@ -110,8 +117,7 @@
 #SC4_TapToChange {
     background-image: url(../images/SC4/SC4_TapToChange.png)
     }
-
-
+*/
 
 
 #page_5{
@@ -299,3 +305,9 @@
 
 }
 
+.sprite-SC4_ColorGear_01{ background-position: 0 0; width: 115px; height: 185px; }
+.sprite-SC4_ColorGear_02{ background-position: 0 -235px; width: 115px; height: 185px; }
+.sprite-SC4_ColorGear_03{ background-position: 0 -470px; width: 115px; height: 185px; }
+.sprite-SC4_ColorGear_04{ background-position: 0 -705px; width: 115px; height: 185px; }
+.sprite-SC4_ColorGear_05{ background-position: 0 -940px; width: 115px; height: 185px; }
+.sprite-SC4_ColorGear_06{ background-position: 0 -1175px; width: 115px; height: 185px; }
