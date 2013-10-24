@@ -60,9 +60,11 @@
 }
 
 .swiper-container {
+
 }
 
 .swiper-slide {
+    position: relative;
 }
 
 .swiper-slide-active {

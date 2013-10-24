@@ -8,18 +8,294 @@
     background-image: url(../images/SC1/SAMSUNG_ESQ__SC1-BG_22102013.jpg);
 }
 
+#SC1_BodyCopy {
+    background-image: url(../images/SC1/SC1_BodyCopy.png);
+}
+#SC1_CreditOpen {
+    background-image: url(../images/SC1/SC1_CreditOpen.png);
+
+}
+#SC1_CTA {
+    background-image: url(../images/SC1/SC1_CTA.png);
+}
+#SC1_Scroll_CTA {
+    background-image: url(../images/SC1/SC1_Scroll_CTA.png);
+}
+#SC1_Title {
+    background-image: url(../images/SC1/SC1_Title.png);
+}
+
+
 #page_2{
     background-image: url(../images/SC2/SAMSUNG_ESQ__SC2-BG_22102013.jpg);
 }
+#SC2_1 {
+    background-image: url(../images/SC2/SC2_1.png);
+}
+#SC2_2 {
+    background-image: url(../images/SC2/SC2_2.png);
+}
+#SC2_3 {
+    background-image: url(../images/SC2/SC2_3.png);
+}
+#SC2_5 {
+    background-image: url(../images/SC2/SC2_5.png);
+}
+#SC2_BrandLogo_Black {
+    background-image: url(../images/SC2/SC2_BrandLogo_Black.png);
+}
+#SC2_BrandLogo_White {
+    background-image: url(../images/SC2/SC2_BrandLogo_White.png);
+}
+#SC2_CreditOpen {
+    background-image: url(../images/SC2/SC2_CreditOpen.png);
+}
+#SC2_OverlayPanel {
+    background-image: url(../images/SC2/SC2_OverlayPanel.png);
+}
+#SC2_TapText {
+    background-image: url(../images/SC2/SC2_TapText.png);
+}
+
+
 
 #page_3{
     background-image: url(../images/SC3/SAMSUNG_ESQ__SC3-BG_22102013.jpg);
 }
 
+#SC3_BrandLogo_Black {
+    background-image: url(../images/SC3/SC3_BrandLogo_Black.png);
+}
+#SC3_CreditOpen {
+    background-image: url(../images/SC3/SC3_CreditOpen.png);
+}
+#SC3_OverlayPanel {
+    background-image: url(../images/SC3/SC3_OverlayPanel.png);
+}
+
+
+
+
+
+
+
 #page_4{
     background-image: url(../images/SC4/SAMSUNG_ESQ__SC4-BG_22102013.jpg);
 }
 
+#SC4_ColorGear_01 {
+    background-image: url(../images/SC4/SC4_ColorGear_01.jpg)
+}
+#SC4_ColorGear_02 {
+    background-image: url(../images/SC4/SC4_ColorGear_02.jpg)
+    }
+#SC4_ColorGear_03 {
+    background-image: url(../images/SC4/SC4_ColorGear_03.jpg)
+    }
+#SC4_ColorGear_04 {
+    background-image: url(../images/SC4/SC4_ColorGear_04.jpg)
+    }
+#SC4_ColorGear_05 {
+    background-image: url(../images/SC4/SC4_ColorGear_05.jpg)
+    }
+#SC4_ColorGear_06 {
+    background-image: url(../images/SC4/SC4_ColorGear_06.jpg)
+    }
+#SC4_CreditOpen {
+    background-image: url(../images/SC4/SC4_CreditOpen.png)
+    }
+#SC4_OverlayPanel {
+    background-image: url(../images/SC4/SC4_OverlayPanel.png)
+    }
+#SC4_TapToChange {
+    background-image: url(../images/SC4/SC4_TapToChange.png)
+    }
+
+
+
+
 #page_5{
     background-image: url(../images/SC5/SAMSUNG_ESQ__SC5-BG_22102013.jpg);
 }
+
+#SC5_ColourTab_Chosen {
+    background-image: url(../images/SC5/SC5_ColourTab_Chosen.png);
+}
+#SC5_ExploreCopy {
+    background-image: url(../images/SC5/SC5_ExploreCopy.png);
+}
+#SC5_Gear_JetBlack {
+    background-image: url(../images/SC5/SC5_Gear_JetBlack.jpg);
+}
+#SC5_Gear_LimeGreen {
+    background-image: url(../images/SC5/SC5_Gear_LimeGreen.jpg);
+}
+#SC5_Gear_MochaGray {
+    background-image: url(../images/SC5/SC5_Gear_MochaGray.jpg);
+}
+#SC5_Gear_OatmealBiege {
+    background-image: url(../images/SC5/SC5_Gear_OatmealBiege.jpg);
+}
+#SC5_Gear_RoseGold {
+    background-image: url(../images/SC5/SC5_Gear_RoseGold.jpg);
+}
+#SC5_Gear_WildOrange {
+    background-image: url(../images/SC5/SC5_Gear_WildOrange.jpg);
+}
+#SC5_GearTab_Off {
+    background-image: url(../images/SC5/SC5_GearTab_Off.jpg);
+}
+#SC5_GearTab_On {
+    background-image: url(../images/SC5/SC5_GearTab_On.jpg);
+}
+
+
+
+#SC5_Tab1_Colour1_JetBlack {
+    background-image: url(../images/SC5/SC5_Tab1_Colour1_JetBlack.jpg  );
+}
+#SC5_Tab1_Colour2_WildOrange {
+    background-image: url(../images/SC5/SC5_Tab1_Colour2_WildOrange.jpg  );
+}
+#SC5_Tab1_Colour3_LimeGreen {
+    background-image: url(../images/SC5/SC5_Tab1_Colour3_LimeGreen.jpg  );
+}
+#SC5_Tab1_Colour4_RoseGold {
+    background-image: url(../images/SC5/SC5_Tab1_Colour4_RoseGold.jpg  );
+}
+#SC5_Tab1_Colour5_MochaGray {
+    background-image: url(../images/SC5/SC5_Tab1_Colour5_MochaGray.jpg  );
+}
+
+
+
+
+
+
+
+
+
+
+
+#SC5_Note_BlushPink {
+    background-image: url(../images/SC5/SC5_Note_BlushPink.jpg  );
+
+}
+#SC5_Note_ClassicWhite {
+    background-image: url(../images/SC5/SC5_Note_ClassicWhite.jpg  );
+
+}
+#SC5_Note_JetBlack {
+    background-image: url(../images/SC5/SC5_Note_JetBlack.jpg  );
+
+}
+#SC5_NoteTab_Off {
+    background-image: url(../images/SC5/SC5_NoteTab_Off.jpg  );
+
+}
+#SC5_NoteTab_On {
+    background-image: url(../images/SC5/SC5_NoteTab_On.jpg  );
+
+}
+#SC5_OverlayBox {
+    background-image: url(../images/SC5/SC5_OverlayBox.jpg  );
+
+}
+
+#SC5_Products {
+    background-image: url(../images/SC5/SC5_Products.png  );
+
+}
+#SC5_SeeMore {
+    background-image: url( ../images/SC5/SC5_SeeMore.png );
+
+}
+
+#SC5_Tab1_JetBlack {
+    background-image: url( ../images/SC5/SC5_Tab1_JetBlack.jpg );
+}
+#SC5_Tab1_LimeGreen {
+    background-image: url( ../images/SC5/SC5_Tab1_LimeGreen.jpg );
+}
+#SC5_Tab1_MochaGray {
+    background-image: url( ../images/SC5/SC5_Tab1_MochaGray.jpg );
+}
+#SC5_Tab1_OatmealBiege {
+    background-image: url( ../images/SC5/SC5_Tab1_OatmealBiege.jpg );
+}
+#SC5_Tab1_RoseGold {
+    background-image: url( ../images/SC5/SC5_Tab1_RoseGold.jpg );
+}
+#SC5_Tab1_WildOrange {
+    background-image: url( ../images/SC5/SC5_Tab1_WildOrange.jpg );
+}
+
+
+
+#SC5_Tab2_BlushPink {
+    background-image: url( ../images/SC5/SC5_Tab2_BlushPink.jpg );
+}
+#SC5_Tab2_ClassicWhite {
+    background-image: url( ../images/SC5/SC5_Tab2_ClassicWhite.jpg );
+}
+#SC5_Tab2_Colour1_JetBlack {
+    background-image: url(../images/SC5/SC5_Tab2_Colour1_JetBlack.jpg  );
+
+
+}
+#SC5_Tab2_Colour2_ClassicWhite {
+    background-image: url( ../images/SC5/SC5_Tab2_Colour2_ClassicWhite.jpg );
+
+}
+#SC5_Tab2_Colour3_BlushPink {
+    background-image: url( ../images/SC5/SC5_Tab2_Colour3_BlushPink.jpg );
+
+}
+#SC5_Tab2_JetBlack {
+    background-image: url( ../images/SC5/SC5_Tab2_JetBlack.jpg );
+
+}
+#SC5_Tab3_ClassicWhite {
+    background-image: url( ../images/SC5/SC5_Tab3_ClassicWhite.jpg );
+
+}
+#SC5_Tab3_Colour1_JetBlack {
+    background-image: url( ../images/SC5/SC5_Tab3_Colour1_JetBlack.jpg );
+
+}
+#SC5_Tab3_Colour2_ClassicWhite {
+    background-image: url( ../images/SC5/SC5_Tab3_Colour2_ClassicWhite.jpg );
+
+}
+#SC5_Tab3_JetBlack {
+    background-image: url( ../images/SC5/SC5_Tab3_JetBlack.jpg );
+
+}
+#SC5_Tablet_ClassicWhite {
+    background-image: url( ../images/SC5/SC5_Tablet_ClassicWhite.jpg );
+
+}
+#SC5_Tablet_JetBlack {
+    background-image: url( ../images/SC5/SC5_Tablet_JetBlack.jpg );
+}
+#SC5_TabTab_Off {
+    background-image: url( ../images/SC5/SC5_TabTab_Off.jpg );
+
+}
+#SC5_TabTab_On {
+    background-image: url( ../images/SC5/SC5_TabTab_On.jpg );
+
+}
+#SC5_Title {
+    background-image: url( ../images/SC5/SC5_Title.png );
+
+}
+#SC5_VideoPlay {
+    background-image: url( ../images/SC5/SC5_VideoPlay.png );
+
+}
+#SC5_VideoTitle {
+    background-image: url( ../images/SC5/SC5_VideoTitle.png );
+
+}
+
